@@ -8,6 +8,7 @@
 [ext_resource type="AudioStream" uid="uid://b5xn8v0fohhk0" path="res://Audio/SFX/Walk/walk1.wav" id="9_ney17"]
 [ext_resource type="Script" uid="uid://dx8qcgcttuo8f" path="res://Scripts/Objects/pizza_shop.gd" id="9_shop_script"]
 [ext_resource type="AudioStream" uid="uid://cvndlehg6lbpy" path="res://Audio/SFX/Walk/walk2.wav" id="10_42tef"]
+[ext_resource type="Texture2D" uid="uid://qxj06477ou1m" path="res://Sprites/flat_door.png" id="10_door"]
 [ext_resource type="AudioStream" uid="uid://ddppnl1gfm3pl" path="res://Audio/SFX/Walk/walk3.wav" id="11_lj4ce"]
 [ext_resource type="Texture2D" uid="uid://y7bdj04frx8o" path="res://Sprites/staircase.png" id="11_stairs"]
 [ext_resource type="Texture2D" uid="uid://be7r5of5buv0t" path="res://Sprites/apartment.png" id="12_apartment"]
